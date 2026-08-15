@@ -1,0 +1,2 @@
+entrypoint: python3 agent.py
+python: "3.12"
